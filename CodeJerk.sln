@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJerk", "CodeJerk\CodeJerk.csproj", "{8964D4A0-94B9-4115-A82C-84593250A8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDll", "TestDll\TestDll.csproj", "{17A97C97-494F-46D4-8749-153CF522B5F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJerk.Test", "CodeJerk.Test\CodeJerk.Test.csproj", "{8EEABCFA-276B-47F4-85B9-2C4EA939508A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8964D4A0-94B9-4115-A82C-84593250A8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8964D4A0-94B9-4115-A82C-84593250A8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8964D4A0-94B9-4115-A82C-84593250A8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8964D4A0-94B9-4115-A82C-84593250A8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A97C97-494F-46D4-8749-153CF522B5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A97C97-494F-46D4-8749-153CF522B5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A97C97-494F-46D4-8749-153CF522B5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A97C97-494F-46D4-8749-153CF522B5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEABCFA-276B-47F4-85B9-2C4EA939508A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEABCFA-276B-47F4-85B9-2C4EA939508A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEABCFA-276B-47F4-85B9-2C4EA939508A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEABCFA-276B-47F4-85B9-2C4EA939508A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
